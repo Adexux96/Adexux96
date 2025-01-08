@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">🔭 Estoy trabajando actualmente en un juego de roblox de manera profesional<br>🌱 Actualmente estoy aprendiendo a usar blender para crear modelos de alta calidad<br>💬 Sientanse libres de preguntarme cualquier cosa, estaré encantado de responderos<br>📫 Podeis contactarme en discord: @senseilorenz<br>😄 Pronombres: he/him<br>⚡ Fun fact: Empecé humildemente con una laptop de 2gb de ram y un intel petium de 2005 y gracias a constante esfuerzo pude comprar mi primer pc recientemente</h3>
+<h3 align="left">🔭 Estoy trabajando actualmente en un juego de roblox de manera profesional<br>🌱 Actualmente estoy aprendiendo a usar blender para crear modelos de alta calidad<br>💬 Sientanse libres de preguntarme cualquier cosa, estaré encantado de responderos<br>📫 Podeis contactarme en discord: @senseilorenz<br>😄 Pronombres: he/him<br>⚡ Fun fact: Empecé humildemente con una laptop de 2gb de ram y un intel pentium y gracias a constante esfuerzo pude comprar mi primer pc recientemente</h3>
 
 ###
 
