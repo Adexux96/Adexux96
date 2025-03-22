@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">🔭 Estoy trabajando actualmente en un juego de roblox como dev de manera profesional usando el lenguaje luau<br>🌱 Actualmente estoy dirigiendo un proyecto de representación a escala de una ciudad con el uso de Blender y impresiones en 3D<br>💬 Sientanse libres de preguntarme cualquier cosa, estaré encantado de responderos<br>📫 Podeis contactarme en discord: @senseilorenz<br>😄 Pronombres: he/him<br>⚡ Fun fact: Empecé humildemente con una laptop de 2gb de ram y un intel pentium y gracias a constante esfuerzo pude comprar mi primer pc recientemente</h3>
+<h3 align="left">🔭Estoy trabajando actualmente en un juego de Roblox como dev de manera profesional usando el lenguaje luau<br>🌱 Actualmente estoy dirigiendo un proyecto de representación a escala de una ciudad con el uso de Blender y impresiones en 3D<br>💬 Siéntanse libres de preguntarme cualquier cosa, estaré encantado de responderos<br>📫 Podeis contactarme en discord: @senseilorenz<br>😄 Pronombres: he/him<br>⚡ Fun fact: Empecé humildemente con una laptop de 2gb de ram y un Intel Pentium y gracias a constante esfuerzo pude comprar mi primer pc recientemente</h3>
 
 ###
 
@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adexux96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Adexux96&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adexux96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -26,19 +27,25 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="30" alt="discordjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###
