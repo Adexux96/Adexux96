@@ -4,7 +4,15 @@
 
 ###
 
-<h3 align="left">🔭Estoy trabajando actualmente en un juego de Roblox como dev de manera profesional usando el lenguaje luau<br>🌱 Actualmente estoy dirigiendo un proyecto de representación a escala de una ciudad con el uso de Blender y impresiones en 3D<br>💬 Siéntanse libres de preguntarme cualquier cosa, estaré encantado de responderos<br>📫 Podeis contactarme en discord: @senseilorenz<br>😄 Pronombres: he/him<br>⚡ Fun fact: Empecé humildemente con una laptop de 2gb de ram y un Intel Pentium y gracias a constante esfuerzo pude comprar mi primer pc recientemente</h3>
+<h3 align="left">
+🔭 Soy desarrollador y fundador de un pequeño estudio de videojuegos. Actualmente desarrollo Spider-Man Simulator, un juego de Roblox programado en Luau.<br>
+🌱 Estudio Ingeniería de Robótica Software en la Universidad Rey Juan Carlos.<br>
+🛠️ También tengo experiencia en modelado 3D con Blender.<br>
+💬 Siéntanse libres de preguntarme cualquier cosa, ¡estaré encantado de responderos!<br>
+📫 Podéis contactarme en Discord: @senseilorenz<br>
+😄 Pronombres: he/him<br>
+⚡ Fun fact: Empecé a programar en Roblox Studio a los 12 años, con un viejo Acer, un Intel Pentium y apenas 2 GB de RAM. Seis años después, dirijo mi propio pequeño estudio de videojuegos.
+</h3>
 
 ###
 
